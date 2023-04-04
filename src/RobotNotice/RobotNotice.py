@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+__all__ = ['notice', 'aionotice']
+
 import asyncio
 
 from ding_notice import ding_notice, ding_notice_async

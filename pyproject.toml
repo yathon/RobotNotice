@@ -1,14 +1,13 @@
 [project]
-name = "robotnotice_package"
+name = "robotnotice"
 version = "0.0.1"
 authors = [
-  { name="Yathon", email="1134791004@qq.com" },
+  { name="Yathon", email="yathon@dyxt.com" },
 ]
 description = "提供方便通用的钉钉群和企业微信群机器人消息通知接口"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
-    "Development Status :: 3 - Alpha",
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
     "Operating System :: OS Independent",
@@ -16,4 +15,4 @@ classifiers = [
 
 [project.urls]
 "Homepage" = "https://github.com/yathon/RobotNotice"
-"Bug Tracker" = "https://github.com/yathon/RobotNotice/issues"
+"Bug Tracker" = "https://github.com/yathon/RobotNotice/issues/new"
