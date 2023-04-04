@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name="RobotNotice",
-    version="0.0.1",
+    version="0.0.2",
     license="GNU General Public License v3 (GPLv3)",
     author="Yathon",
     author_email="yathon@dyxt.com",
